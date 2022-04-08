@@ -1,0 +1,1 @@
+import{_ as r}from"./app.401eb986.js";import{s as o,m as t}from"./vendor.96619303.js";var a={};const e={};"function"==typeof a&&a(e);var n=r(e,[["render",function(r,a){return o(),t("div")}]]);export{n as default};
